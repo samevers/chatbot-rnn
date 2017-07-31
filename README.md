@@ -1,3 +1,6 @@
+This project is imported from : https://github.com/pender/chatbot-rnn.git.
+Here is just to backup.
+========================================================================
 # chatbot-rnn
 A toy chatbot powered by deep learning and trained on data from Reddit.
 
